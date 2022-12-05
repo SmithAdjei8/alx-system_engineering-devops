@@ -6,3 +6,4 @@ Prints Hello, World
 6-third_line Displays the third line of file iacta
 7-file Create Best School
 8-cwd_state writes the results of ls -la to a file
+9-duplicate_last_line
