@@ -13,3 +13,4 @@
 12-combinations
 13-Float
 14-Decimal to Hex
+15-Strong Encryption
