@@ -10,3 +10,4 @@
 9-Power and Divide
 10-Love expo breath
 11-binary to decimal
+12-combinations
