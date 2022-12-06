@@ -1,4 +1,4 @@
-Prints Hello, World
+1-Prints Hello, World
 2-hellofile Displays the content of /etc/passwd
 3-twofiles Displays the content of /etc/passwd /etc/hosts
 4-lastlines Displays the last 10 lines of /etc/passwd
@@ -8,3 +8,4 @@ Prints Hello, World
 8-cwd_state writes the results of ls -la to a file
 9-duplicate_last_line
 10-no_more_js
+11-directories
