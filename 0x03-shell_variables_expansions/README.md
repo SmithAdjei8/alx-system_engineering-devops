@@ -12,3 +12,4 @@
 11-binary to decimal
 12-combinations
 13-Float
+14-Decimal to Hex
